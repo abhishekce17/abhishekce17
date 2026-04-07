@@ -47,8 +47,8 @@ I am a passionate **Associate Software Engineer** specializing in full-stack dev
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishekce17&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekce17&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=abhishekce17&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekce17&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 ---
