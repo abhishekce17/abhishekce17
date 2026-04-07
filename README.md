@@ -44,15 +44,6 @@ I am a passionate **Associate Software Engineer** specializing in full-stack dev
 
 ---
 
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishekce17&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekce17&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</div>
-
----
-
 ### 💼 Professional Experience
 
 #### **Parag Milk Foods** | *Associate Software Engineer* (Jan 2025 - Present)
