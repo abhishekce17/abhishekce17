@@ -70,11 +70,11 @@ I am a passionate **Software Engineer** specializing in full-stack development, 
 ### 🛠️ Featured Engineering Projects
 
 - 📰 **[ByteFeed](https://bytefeed.dev/)**: Developed a personalized news platform aggregating software engineering articles, library releases, and hackathons into a clean, offline-ready feed featuring AI-powered summaries.
-- ⚙️ **[react-native-nitro-html (npm)](#)**: Engineered a zero-WebView HTML5 viewer and native rendering engine for React Native powered by C++ and JSI. Implemented a zero-copy native rendering pipeline via in-memory AST caching and platform-native text layout, achieving 10x-50x faster rendering with 90% lower memory overhead.
+- ⚙️ **[react-native-nitro-html (npm)](https://www.npmjs.com/package/react-native-nitro-html)**: Engineered a zero-WebView HTML5 viewer and native rendering engine for React Native powered by C++ and JSI. Implemented a zero-copy native rendering pipeline via in-memory AST caching and platform-native text layout, achieving 10x-50x faster rendering with 90% lower memory overhead.
 - 🧠 **[Personal AI Assistant (Orvio Backend)](https://github.com/abhishekce17/personal-ai-assistant)**: Architected a self-contained FastAPI backend powering a personal AI. Integrated **Redis Stack** for high-speed RAG and bundled a local **Ollama** embedding model within a Docker container.
 - 🦀 **[Custom UNIX Shell](https://github.com/abhishekce17/own-shell-rust)**: Engineered a UNIX-like shell from scratch in **Rust**, implementing command parsing, safe child process execution, and system calls.
 - 👁️ **[Multiface-Recognition](https://github.com/abhishekce17/Multiface-Recognition)**: Developed a live multi-face recognition system using Python and OpenCV via a webcam.
-- 📄 **[Document Converter](#)**: Built a tool to convert document formats (PDF to image/Word) with features to compress and reduce image sizes.
+- 📄 **[Document Converter](https://github.com/abhishekce17/Document-Converter)**: Built a tool to convert document formats (PDF to image/Word) with features to compress and reduce image sizes.
 - 🤖 **[Sign Recognition (ML/IoT)](#)**: Created an American Sign Language live recognition system via webcam using machine learning algorithms, alongside an IoT-based version using an Arduino, custom gloves, and flex sensors.
 
 ---
