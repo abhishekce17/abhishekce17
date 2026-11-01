@@ -68,7 +68,7 @@ I am a passionate **Software Engineer** specializing in full-stack development, 
 ---
 
 ### 🛠️ Featured Engineering Projects
-
+- 🦀 **[React Native + Rust Integration](https://github.com/abhishekce17/react-native-rust-integration)**: Developed a unified cross-platform Rust integration architecture for Bare React Native using **Rust, C++, JSI, and C++ TurboModules**. Features a generic template-based JSI binder, safe FFI memory management, typed data exchange, and shared native integration across Android and iOS, with platform-specific compilation and registration pipelines.
 - 📰 **[ByteFeed](https://bytefeed.dev/)**: Developed a personalized news platform aggregating software engineering articles, library releases, and hackathons into a clean, offline-ready feed featuring AI-powered summaries.
 - ⚙️ **[react-native-nitro-html (npm)](https://www.npmjs.com/package/react-native-nitro-html)**: Engineered a zero-WebView HTML5 viewer and native rendering engine for React Native powered by C++ and JSI. Implemented a zero-copy native rendering pipeline via in-memory AST caching and platform-native text layout, achieving 10x-50x faster rendering with 90% lower memory overhead.
 - 🧠 **[Personal AI Assistant (Orvio Backend)](https://github.com/abhishekce17/personal-ai-assistant)**: Architected a self-contained FastAPI backend powering a personal AI. Integrated **Redis Stack** for high-speed RAG and bundled a local **Ollama** embedding model within a Docker container.
