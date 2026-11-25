@@ -2,7 +2,7 @@
 
 # Hi there, I'm Abhishek Prajapati! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Associate+Software+Engineer;Mobile+App+Dev+Enthusiast;Exploring+Low-Level+Systems;Passionate+About+Core+Logic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Software+Engineer;Mobile+App+Dev+Enthusiast;Exploring+Low-Level+Systems;Passionate+About+Core+Logic)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishekprajapati7918082002/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
